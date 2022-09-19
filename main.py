@@ -18,7 +18,7 @@ X = data[:,0:rows_total-1]
 y = data[:,rows_total-1]
 
 # Control how many epochs to train for
-epochs = 333
+epochs = input("How many epochs do you want your model to train for?")
 
 # define the keras model
 model = Sequential()
