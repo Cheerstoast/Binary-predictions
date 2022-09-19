@@ -15,7 +15,7 @@ To get it running on your machine, you would need python3 and numpy and tensorfl
 Afer that, build the program. First get the ZIP from github, unzip it, and then delete the zip file. 
 
 
-    curl -LO https://github.com/Cheerstoast/Binary-predictions/archive/refs/heads/main.zip -o main.zip && unzip main.zip && rm main.zip
+    curl -s -LO https://github.com/Cheerstoast/Binary-predictions/archive/refs/heads/main.zip -o main.zip && unzip main.zip && rm main.zip
 
 ## 3. Usage
 
