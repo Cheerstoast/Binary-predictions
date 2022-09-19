@@ -20,10 +20,15 @@ Afer that, build the program. First get the ZIP from github, unzip it, and then 
 ## 3. Usage
 
     
-To run the program, just run
+To run the program, navigate to the "Binary-predictions-main" folder, wherever it is
 
-    python3 Binary-predictions-main/main.py
+    cd Binary-predictions-main
 
-IT would be exciting to run your first AI once you have got it running.
+and then just run
+
+    python3 main.py
+
+Takes a while to start.
+Anyway, it would be exciting to run your first AI.
 
 ### Enjoy >!<
